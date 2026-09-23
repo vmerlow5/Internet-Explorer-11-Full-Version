@@ -243,4 +243,4 @@ This repository serves as the official landing page for Internet Explorer 11. Th
 **Get the most recent version of Internet Explorer 11 today!**
 
 ---
-**Last updated:** 2026-09-22 22:41:16 UTC
+**Last updated:** 2026-09-23 01:12:15 UTC
